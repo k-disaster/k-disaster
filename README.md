@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, I'm <span style="color: red"><code>k-disaster</code></span>. I'm Python and JavaScript enthusiast. I love to build stuff with these languages.
+I'm <span style="color: red">k-disaster</span>. I'm Python and JavaScript enthusiast. I love to build stuff with these languages.
 
 - :hourglass: I'm currently working on to upgrade my skills in 
   - ReactJS
