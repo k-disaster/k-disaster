@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-Hi this is k-disaster. I'm Python and JavaScript enthusiast. I love to build stuff with these languages.
+Hi, I'm k-disaster. I'm Python and JavaScript enthusiast. I love to build stuff with these languages.
 
 - :hourglass: I'm currently working on to upgrade my skills in 
   - ReactJS
